@@ -5,6 +5,7 @@
         "patika\\NotOrtalaması",
         "patika\\Taksimetre",
         "patika\\DaireHesap",
-        "patika\\KitleIndex"
+        "patika\\KitleIndex",
+        "patika\\Manav"
     ]
 }
