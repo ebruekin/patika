@@ -32,13 +32,6 @@ public class users {
                 System.out.println("Değisiklik yapmak istemediniz");
             }
         }
-
-
-
-
-
-
         input.close();
-
     }
 }
