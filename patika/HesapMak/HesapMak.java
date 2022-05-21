@@ -28,14 +28,7 @@ public class HesapMak {
             default:
                 System.out.println("geçersiz seçimler");
             
-        }
-        
-        
-        
-        
-        
-        
-        
+        }   
         input.close();
     }
 }
