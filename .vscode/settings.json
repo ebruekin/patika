@@ -6,6 +6,7 @@
         "patika\\Taksimetre",
         "patika\\DaireHesap",
         "patika\\KitleIndex",
-        "patika\\Manav"
+        "patika\\Manav",
+        "patika\\HesapMak"
     ]
 }
