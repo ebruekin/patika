@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": [
+        "patika\\AlanHesap",
+        "patika\\KDVHesaplama",
+        "patika\\NotOrtalaması",
+        "patika\\Taksimetre",
+        "patika\\DaireHesap",
+        "patika\\KitleIndex"
+    ]
+}
