@@ -13,6 +13,7 @@
         "patika\\Etkinlik",
         "patika\\SayıSıralama",
         "patika\\Burç",
-        "patika\\BiletFiyat"
+        "patika\\BiletFiyat",
+        "patika\\Zodyak"
     ]
 }
