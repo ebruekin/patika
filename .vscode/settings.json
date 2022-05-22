@@ -14,6 +14,7 @@
         "patika\\SayıSıralama",
         "patika\\Burç",
         "patika\\BiletFiyat",
-        "patika\\Zodyak"
+        "patika\\Zodyak",
+        "patika\\ArtıkYıl"
     ]
 }
