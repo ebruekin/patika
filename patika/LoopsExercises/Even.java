@@ -13,9 +13,7 @@ public class Even {
                 total += i;
                 System.out.println("total =" + total);
                 count += 1;                
-                
-            }
-            
+            }            
         }
         avg = total /count;
         System.out.println(avg);
